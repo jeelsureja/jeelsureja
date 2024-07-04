@@ -6,7 +6,7 @@
 - 💬 Ask me about **Web and Mobile Development**
 - 📫 How to reach me: [jeelsureja11@gmail.com](mailto:jeelsureja11@gmail.com) via email
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jeelsureja" alt="AbhishekMaiara10" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=jeelsureja" alt="jeelsureja" /> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
