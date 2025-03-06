@@ -1,5 +1,5 @@
 <h1 align="center">Welcome to my profile!</h1>
-<p align="center">I'm Jeel Sureja, .Backend developer from India.</p>
+<p align="center">I'm Jeel Sureja, Backend developer from India.</p>
 
 - 🔭 I’m currently working at **Infynno Solutions in Ahmedabad**
 - 💬 Ask me about **Web and Mobile Development**
