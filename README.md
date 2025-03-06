@@ -1,8 +1,7 @@
 <h1 align="center">Welcome to my profile!</h1>
-<p align="center">I'm Jeel Sureja, Fullstack developer from India.</p>
+<p align="center">I'm Jeel Sureja, .Backend developer from India.</p>
 
 - 🔭 I’m currently working at **Infynno Solutions in Ahmedabad**
-- 👯 I’m looking to collaborate on **SaaS Development**
 - 💬 Ask me about **Web and Mobile Development**
 - 📫 How to reach me: [jeelsureja11@gmail.com](mailto:jeelsureja11@gmail.com) via email
 
