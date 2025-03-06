@@ -27,7 +27,7 @@
       </a>
       <br>Laravel
     </td>
-    <td align="center" width="134">
+<!--     <td align="center" width="134">
       <a href="#jeelsureja-tech">
         <img src="./images/node.svg" width="48" height="48" alt="Node.js" />
       </a>
@@ -44,7 +44,7 @@
         <img src="./images/typescript.png" width="48" height="48" alt="Typescript" />
       </a>
       <br>TypeScript
-    </td>
+    </td> -->
     <td align="center" width="134">
       <a href="#jeelsureja-tech">
         <img src="./images/mysql.svg" width="48" height="48" alt="MySql" />
@@ -57,29 +57,7 @@
       </a>
       <br>Postgresql
     </td>
-    
-   
-  </tr>
-  <tr>
-    <td align="center" width="96">
-      <a href="#jeelsureja-tech">
-        <img src="./images/aws.png" width="48" height="48" alt="AWS" />
-      </a>
-      <br>AWS
-    </td>
-    <td align="center" width="96">
-      <a href="#jeelsureja-tech">
-        <img src="./images/GraphQL.png" width="48" height="48" alt="Graphql" />
-      </a>
-      <br>Graphql
-    </td>
-    <td align="center" width="96">
-      <a href="#jeelsureja-tech">
-        <img src="./images/saas.png" width="48" height="48" alt="SaaS" />
-      </a>
-      <br>SaaS
-    </td>
-    <td align="center" width="96">
+      <td align="center" width="96">
       <a href="#jeelsureja-tech">
         <img src="./images/api.png" width="48" height="48" alt="API" />
       </a>
@@ -97,6 +75,26 @@
       </a>
       <br>GitHub
     </td>
+  </tr>
+  <tr>
+<!--     <td align="center" width="96">
+      <a href="#jeelsureja-tech">
+        <img src="./images/aws.png" width="48" height="48" alt="AWS" />
+      </a>
+      <br>AWS
+    </td>
+    <td align="center" width="96">
+      <a href="#jeelsureja-tech">
+        <img src="./images/GraphQL.png" width="48" height="48" alt="Graphql" />
+      </a>
+      <br>Graphql
+    </td>
+    <td align="center" width="96">
+      <a href="#jeelsureja-tech">
+        <img src="./images/saas.png" width="48" height="48" alt="SaaS" />
+      </a>
+      <br>SaaS
+    </td> -->
   </tr>
 </table>
 
