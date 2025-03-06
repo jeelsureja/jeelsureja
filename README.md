@@ -76,7 +76,7 @@
       <br>GitHub
     </td>
   </tr>
-  <tr>
+<!--   <tr> -->
 <!--     <td align="center" width="96">
       <a href="#jeelsureja-tech">
         <img src="./images/aws.png" width="48" height="48" alt="AWS" />
@@ -95,7 +95,7 @@
       </a>
       <br>SaaS
     </td> -->
-  </tr>
+<!--   </tr> -->
 </table>
 
 <p align="center">
